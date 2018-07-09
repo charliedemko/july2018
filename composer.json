@@ -1,0 +1,8 @@
+{
+    "name": "dcodegroup/july2018",
+    "description": "Charlie's first repo",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
